@@ -4,12 +4,8 @@ This repository contains DFT workflows and analysis tools for studying **alterma
 
 ## Tools Used
 - Quantum ESPRESSO (via ASE)
+- VASP
 - Pymatgen, Spglib, Seekpath
 - Jupyter notebooks for analysis
 - AiiDA (planned for automation)
 
-## Getting Started
-
-```bash
-conda env create -f environment.yml
-conda activate dft-altermag
